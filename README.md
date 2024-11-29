@@ -48,5 +48,7 @@ Follow these steps to clone the repository to your local machine:
    - Use the `cd` (change directory) command to move to the folder where you want the repository to be cloned.
 
    Example:
+  1. Clone this repository:  
    ```bash
-   cd path/to/your/directory
+   https://github.com/wajiha-kulsum/PRODIGY_WD_01.git
+   
