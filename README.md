@@ -18,6 +18,7 @@ The Tic Tac Toe Game is a classic and engaging two-player game built with HTML, 
 | **Git**      | Version control used for managing the project codebase.  |
 | **GitHub**   | Hosting platform for the repository and collaboration.  |
 
+## How to Play and Game Rules
 
 1. **Start the Game**: Open the game in your web browser by navigating to the `index.html` file.
 2. **Gameplay**: The game starts with an empty 3x3 grid. The two players take turns clicking on a cell to place their symbol (X or O).
