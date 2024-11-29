@@ -7,10 +7,17 @@ The Tic Tac Toe Game is a classic and engaging two-player game built with HTML, 
 - **Reset Button**: Resets the game to its initial state, allowing players to start a new game without refreshing the page.
 - **No Dependencies**: A lightweight game that works entirely in the browser with no external dependencies.
 - **Visual Feedback**: Highlights the winning combination of cells for clear feedback on the game result.
-## Technologies Used
-- **HTML5**: Creates the game structure and layout.
-- **CSS3**: Styles the grid and adds visual effects.
-- **JavaScript**: Implements game logic, interactivity, and win/draw detection.## How to Play and Game Rules
+  
+## Tech Stack
+
+| Technology   | Description                                             |
+|--------------|---------------------------------------------------------|
+| **HTML5**    | Used for the structure and layout of the game interface. |
+| **CSS3**     | Styles the game interface and grid layout.              |
+| **JavaScript**| Implements the game logic, including turn-based play, win detection, and resetting the game. |
+| **Git**      | Version control used for managing the project codebase.  |
+| **GitHub**   | Hosting platform for the repository and collaboration.  |
+
 
 1. **Start the Game**: Open the game in your web browser by navigating to the `index.html` file.
 2. **Gameplay**: The game starts with an empty 3x3 grid. The two players take turns clicking on a cell to place their symbol (X or O).
