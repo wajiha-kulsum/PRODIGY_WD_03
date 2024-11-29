@@ -22,9 +22,9 @@ The Tic Tac Toe Game is a classic and engaging two-player game built with HTML, 
 
 1. **Start the Game**: Open the game in your web browser by navigating to the `index.html` file.
 2. **Gameplay**: The game starts with an empty 3x3 grid. The two players take turns clicking on a cell to place their symbol (X or O).
-3. **Turn-Based Play**: Players take turns placing their respective symbol. The first player is "X", and the second player is "O". A player cannot place their symbol in a cell that is already occupied.
+3. **Turn-Based Play**: Players take turns placing their respective symbols. The first player is "X", and the second player is "O". A player cannot put their symbol in an already occupied cell.
 4. **Objective**: The goal is to get three of your symbols (either "X" or "O") in a row, column, or diagonal. The first player to achieve this wins the game.
-5. **Winning the Game**: A player wins by placing their symbol in three consecutive cells either horizontally, vertically, or diagonally.
+5. **Winning the Game**: A player wins by placing their symbol in three consecutive cells horizontally, vertically, or diagonally.
 6. **Draw Condition**: If all the cells in the grid are filled without either player getting three symbols in a row, the game ends in a draw.
 7. **Reset**: After each game, you can reset the board by clicking the "Reset" button to start a new game.
 
@@ -50,5 +50,5 @@ Follow these steps to clone the repository to your local machine:
    Example:
   1. Clone this repository:  
    ```bash
-   https://github.com/wajiha-kulsum/PRODIGY_WD_01.git
+   https://github.com/wajiha-kulsum/PRODIGY_WD_03.git
    
