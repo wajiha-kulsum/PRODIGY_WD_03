@@ -31,6 +31,7 @@ The Tic Tac Toe Game is a classic and engaging two-player game built with HTML, 
 ### Additional Rules:
 - **Grid Size**: The game is played on a 3x3 grid, making a total of 9 cells to choose from.
 - **Game Reset**: The game can be restarted at any time by clicking the "Reset" button, which clears the board and starts a new round.
+  
 ## How to Clone the Repository
 
 Follow these steps to clone the repository to your local machine:
